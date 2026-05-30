@@ -1,11 +1,9 @@
-# 💫 Hi 👋, I'm Nirav Mathukiya  
-**Full-Stack Developer (React, Next.js, Node.js, MongoDB, SQL) | Learning DSA in JavaScript**
+Hi,I'm Nirav Mathukiya.
+Java Backend Developer | Spring Boot Developer | Full-Stack Developer | DSA Learner
 
-Email Me 👉 **niravmathukiya8@gmail.com**  
-I love building modern, clean, and responsive web applications.  
-I learn and work on it every day.
+📧 Email: niravmathukiya8@gmail.com
 
----
+I am a Computer Engineering student passionate about backend development, scalable applications, and problem-solving. My primary focus is Java, Spring Boot, REST APIs, Databases, and Data Structures & Algorithms. I enjoy building real-world projects and continuously improving my technical skills through hands-on development and interview preparation.---
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirav__04__) 
@@ -15,19 +13,26 @@ I learn and work on it every day.
 ---
 
 # 👨‍💻 About Me
-- Full-Stack Developer focused on **React, Next.js, Node.js, Express, MongoDB & SQL**  
-- Passionate about building fast, scalable, and user-friendly applications  
-- Currently improving **DSA in JavaScript** for better problem-solving  
-- Always exploring new tools, patterns, and best practices  
-- I learn and work on it every day.
+Computer Engineering Student
+Java Backend Developer
+Spring Boot Learner and Project Builder
+Strong interest in REST API Development
+Practicing Data Structures and Algorithms in Java
+Exploring Backend Architecture and System Design
+Interested in scalable and maintainable software development
+Continuously improving problem-solving and development skills
 
 ---
 
 # 🚀 Currently Learning
-- Advanced Next.js concepts (App Router, SSR, Authentication)  
-- Modern backend workflows using Node.js & Express  
-- DSA in JavaScript  
-- System Design basics  
+-Spring Boot Advanced Concepts
+Spring Security
+JWT Authentication
+Hibernate & JPA
+PostgreSQL
+Data Structures and Algorithms in Java
+Backend System Design
+Microservices Fundamentals 
 
 ---
 
@@ -35,19 +40,13 @@ I learn and work on it every day.
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap)
 
-### **Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon)
+
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
@@ -63,22 +62,29 @@ I learn and work on it every day.
 
 # 📂 Featured Projects
 
-### 🎨 **React Landing Page (Coming Soon)**
-A modern, clean, and responsive landing page built using React + Tailwind.  
-Will be uploaded on GitHub tomorrow.
+Hostel Management System
 
-### 👥 **Employee-Based Dashboard (Team Project)**
-A Jira-style team dashboard built with full-stack technologies.  
-Features include task management, role-based access, UI dashboards, and workflow tracking.
+A role-based hostel management platform developed to streamline student and hostel administration processes.
 
+Features
+Student Registration and Login
+Role-Based Authentication
+Complaint Management System
+Admin Dashboard
+Rector Dashboard
+Student Dashboard
+Secure User Management
+REST API Architecture
+Tech Stack
+Java
+Spring Boot
+PostgreSQL
+Hibernate
+JPA
+Spring Security
+JWT
 ---
 
-# 🎯 Goals for 2025
-- Build more production-grade full-stack projects  
-- Improve problem-solving with DSA in JavaScript  
-- Learn advanced frontend & backend patterns  
-- Become strong in real-world full-stack development  
-- I learn and work on it every day.
 
 ---
 
@@ -88,6 +94,23 @@ Features include task management, role-based access, UI dashboards, and workflow
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav-dev-04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+Goals for 2026
+Secure a Java Backend Developer Internship
+Become Strong in Spring Boot Development
+Master Data Structures and Algorithms
+Build Production-Ready Backend Projects
+Learn Microservices Architecture
+Strengthen Backend System Design Skills
+---
+
+Current Focus
+Java Backend Development
+Spring Boot Ecosystem
+Data Structures and Algorithms
+Backend Project Development
+Interview Preparation
+System Design Fundamentals
+
 
 # 🐍 GitHub Contribution Snake
 <div align="center">
@@ -97,8 +120,7 @@ Features include task management, role-based access, UI dashboards, and workflow
 ---
 
 ### ✍️ Developer Quote
-**“Code is not just logic; it is the discipline of learning, improving, and building meaningful solutions.”**
-
+"I believe strong software is built on a combination of problem-solving ability, clean architecture, continuous learning, and consistent practice."
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nirav-dev-04&icon=0&color=0)](https://visitcount.itsvg.in)
