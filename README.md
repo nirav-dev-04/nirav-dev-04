@@ -93,15 +93,6 @@ JPA
 Spring Security
 JWT
 ---
-
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nirav-dev-04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nirav-dev-04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav-dev-04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 Goals for 2026
 Secure a Java Backend Developer Internship
@@ -112,6 +103,7 @@ Learn Microservices Architecture
 Strengthen Backend System Design Skills
 ---
 
+---
 Current Focus
 Java Backend Development
 Spring Boot Ecosystem
@@ -119,7 +111,7 @@ Data Structures and Algorithms
 Backend Project Development
 Interview Preparation
 System Design Fundamentals
-
+---
 
 # 🐍 GitHub Contribution Snake
 <div align="center">
