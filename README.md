@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 7th Semester Computer Engineering Student (Batch 2023–27)
+- 🎓 7th Semester Computer Engineering Student (GTU, Batch 2023–27)
 - 💼 Java Backend Developer — actively interviewing for fresher backend roles
 - 🚀 Building production-style, AI-integrated full-stack projects (not just CRUD apps)
 - 🌱 Deepening skills in Spring Security, Hibernate/JPA, Redis, AWS, and System Design
@@ -87,8 +87,22 @@ A role-based hostel management platform for student and hostel administration.
 - **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JPA, Spring Security, JWT (Backend) | React + Vite (Frontend)
 - Role-based authentication (Student / Rector / Admin dashboards)
 - Complaint management system
-- Secure REST API architecture
-🔗 [Live Demo](https://hostel-managment-frontend.vercel.app/login) | [Frontend Repo](https://github.com/nirav-dev-04/HOSTEL-MANAGMENT---FRONTEND) | [Backend Repo](#)
+- Secure REST API architecture, Dockerized backend, Cloudinary file uploads
+🔗 [Live Demo](https://hostel-managment-frontend.vercel.app/login) | [Frontend Repo](https://github.com/nirav-dev-04/HOSTEL-MANAGMENT---FRONTEND) | [Backend Repo](https://github.com/nirav-dev-04/smart-hostel-management-system)
+
+### 📄 AI Resume Analyzer *(Planned)*
+An AI-powered resume screening and feedback tool — upcoming project.
+- **Planned Stack:** React (TypeScript, Vite), Spring Boot
+- AI-based resume parsing & ATS scoring
+- Async analysis with status polling
+
+---
+
+## 🧮 DSA Practice
+
+### Java-Codes
+Structured Java DSA practice repo covering Arrays, Strings, Number Programs, Patterns, Sorting/Searching, Collections, Java 8 Streams, and Recursion — built alongside interview preparation.
+🔗 [GitHub](https://github.com/nirav-dev-04/Java-Codes.)
 
 ---
 
