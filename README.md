@@ -84,11 +84,11 @@ Final year project — a secure, real-time online exam platform.
 
 ### 🏠 Hostel Management System *(Completed)*
 A role-based hostel management platform for student and hostel administration.
-- **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JPA, Spring Security, JWT
+- **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JPA, Spring Security, JWT (Backend) | React + Vite (Frontend)
 - Role-based authentication (Student / Rector / Admin dashboards)
 - Complaint management system
 - Secure REST API architecture
-🔗 [GitHub](https://github.com/nirav-dev-04)
+🔗 [Live Demo](https://hostel-managment-frontend.vercel.app/login) | [Frontend Repo](https://github.com/nirav-dev-04/HOSTEL-MANAGMENT---FRONTEND) | [Backend Repo](#)
 
 ---
 
