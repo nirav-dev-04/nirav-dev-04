@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 7th Semester Computer Engineering Student (GTU, Batch 2023–27)
+- 🎓 7th Semester Computer Engineering Student (Batch 2023–27)
 - 💼 Java Backend Developer — actively interviewing for fresher backend roles
 - 🚀 Building production-style, AI-integrated full-stack projects (not just CRUD apps)
 - 🌱 Deepening skills in Spring Security, Hibernate/JPA, Redis, AWS, and System Design
@@ -89,12 +89,6 @@ A role-based hostel management platform for student and hostel administration.
 - Complaint management system
 - Secure REST API architecture
 🔗 [GitHub](https://github.com/nirav-dev-04)
-
-### 📄 AI Resume Analyzer *(Planned)*
-An AI-powered resume screening and feedback tool — upcoming project.
-- **Planned Stack:** React (TypeScript, Vite), Spring Boot
-- AI-based resume parsing & ATS scoring
-- Async analysis with status polling
 
 ---
 
