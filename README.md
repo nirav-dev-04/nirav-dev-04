@@ -1,44 +1,35 @@
-Hi,I'm Nirav Mathukiya.
-Java Backend Developer | Spring Boot Developer | Full-Stack Developer | DSA Learner
+<h1 align="center">Hi, I'm Nirav Mathukiya 👋</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Developer | Full-Stack Developer | DSA Learner</h3>
 
-📧 Email: niravmathukiya8@gmail.com
+<p align="center">
+📧 <a href="mailto:niravmathukiya8@gmail.com">niravmathukiya8@gmail.com</a>
+</p>
 
-I am a Computer Engineering student passionate about backend development, scalable applications, and problem-solving. My primary focus is Java, Spring Boot, REST APIs, Databases, and Data Structures & Algorithms. I enjoy building real-world projects and continuously improving my technical skills through hands-on development and interview preparation.---
+---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirav__04__) 
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirav__04__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-mathukiya-47b1752b3)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nirav-dev-04)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niravmathukiya8@gmail.com)
 
 ---
 
-# 👨‍💻 About Me
-Computer Engineering Student
-Java Backend Developer
-Spring Boot Learner and Project Builder
-Strong interest in REST API Development
-Practicing Data Structures and Algorithms in Java
-Exploring Backend Architecture and System Design
-Interested in scalable and maintainable software development
-Continuously improving problem-solving and development skills
+## 👨‍💻 About Me
+
+- 🎓 7th Semester Computer Engineering Student (GTU, Batch 2023–27)
+- 💼 Java Backend Developer — actively interviewing for fresher backend roles
+- 🚀 Building production-style, AI-integrated full-stack projects (not just CRUD apps)
+- 🌱 Deepening skills in Spring Security, Hibernate/JPA, Redis, AWS, and System Design
+- 🧩 Practicing Data Structures & Algorithms in Java
+- 🎯 Goal: Land a Java Backend Developer role in 2026
 
 ---
 
-# 🚀 Currently Learning
--Spring Boot Advanced Concepts
-Spring Security
-JWT Authentication
-Hibernate & JPA
-PostgreSQL
-Data Structures and Algorithms in Java
-Backend System Design
-Microservices Fundamentals 
+## 🛠 Tech Stack
 
----
-
-# 🛠 Tech Stack
-
-## Backend
+**Backend**
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -47,81 +38,87 @@ Microservices Fundamentals
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-## Databases
+**Databases & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Frontend**
+**Frontend**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap)
 
-### **Tools & Deployment**
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-Hostel Management System
+### 🎓 Coursify — Full-Stack EdTech SaaS Platform *(In Progress)*
+End-to-end online course platform with video streaming, secure payments, and an instructor portal.
+- **Stack:** Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS
+- Redis write-back caching for video progress tracking
+- AWS video pipeline: S3 → Lambda → MediaConvert → CloudFront signed cookies
+- Razorpay payments with idempotency keys & pessimistic locking
+- JWT auth with httpOnly cookie rotation, Bucket4j rate limiting
+- Currently building: Playwright E2E tests, instructor course-creation wizard
+🔗 [GitHub](https://github.com/nirav-dev-04)
 
-A role-based hostel management platform developed to streamline student and hostel administration processes.
+### 🛡 ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
+Final year project — a secure, real-time online exam platform.
+- **Stack:** Spring Boot 3, React (Vite), PostgreSQL, Redis
+- WebSocket/STOMP for real-time proctoring & monitoring
+- JWT authentication, Bucket4j rate limiting, Flyway migrations
+- Apache POI for bulk question import
+- Currently building: frontend UI
+🔗 [GitHub](https://github.com/nirav-dev-04)
 
-Features
-Student Registration and Login
-Role-Based Authentication
-Complaint Management System
-Admin Dashboard
-Rector Dashboard
-Student Dashboard
-Secure User Management
-REST API Architecture
-Tech Stack
-Java
-Spring Boot
-PostgreSQL
-Hibernate
-JPA
-Spring Security
-JWT
----
----
-Goals for 2026
-Secure a Java Backend Developer Internship
-Become Strong in Spring Boot Development
-Master Data Structures and Algorithms
-Build Production-Ready Backend Projects
-Learn Microservices Architecture
-Strengthen Backend System Design Skills
----
+### 🏠 Hostel Management System *(Completed)*
+A role-based hostel management platform for student and hostel administration.
+- **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JPA, Spring Security, JWT
+- Role-based authentication (Student / Rector / Admin dashboards)
+- Complaint management system
+- Secure REST API architecture
+🔗 [GitHub](https://github.com/nirav-dev-04)
 
----
-Current Focus
-Java Backend Development
-Spring Boot Ecosystem
-Data Structures and Algorithms
-Backend Project Development
-Interview Preparation
-System Design Fundamentals
----
-
-# 🐍 GitHub Contribution Snake
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+### 📄 AI Resume Analyzer *(Planned)*
+An AI-powered resume screening and feedback tool — upcoming project.
+- **Planned Stack:** React (TypeScript, Vite), Spring Boot
+- AI-based resume parsing & ATS scoring
+- Async analysis with status polling
 
 ---
 
-### ✍️ Developer Quote
-"I believe strong software is built on a combination of problem-solving ability, clean architecture, continuous learning, and consistent practice."
+## 🎯 2026 Goals
+
+- Land a Java Backend Developer role
+- Ship Coursify and ExamShield to completion
+- Build the AI Resume Analyzer
+- Get strong in System Design fundamentals
+- Keep sharpening DSA in Java
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nirav-dev-04&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nirav-dev-04&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirav-dev-04&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>"I believe strong software is built on a combination of problem-solving ability, clean architecture, continuous learning, and consistent practice."</i></p>
+
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=nirav-dev-04&icon=0&color=0" alt="Visitor Count"/></a>
+</p>
