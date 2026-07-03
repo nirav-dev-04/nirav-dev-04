@@ -63,15 +63,18 @@
 
 ## 📂 Featured Projects
 
-### 🎓 Coursify — Full-Stack EdTech SaaS Platform *(In Progress)*
+🎓 Coursify — Full-Stack EdTech SaaS Platform
 End-to-end online course platform with video streaming, secure payments, and an instructor portal.
-- **Stack:** Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS
-- Redis write-back caching for video progress tracking
-- AWS video pipeline: S3 → Lambda → MediaConvert → CloudFront signed cookies
-- Razorpay payments with idempotency keys & pessimistic locking
-- JWT auth with httpOnly cookie rotation, Bucket4j rate limiting
-- Currently building: Playwright E2E tests, instructor course-creation wizard
-🔗 [GitHub](https://github.com/nirav-dev-04)
+
+Stack: Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS (S3, Lambda, MediaConvert, CloudFront), Razorpay
+Redis write-back caching for real-time video progress tracking
+AWS video pipeline: S3 → Lambda → MediaConvert → CloudFront signed cookies for secure HLS streaming
+Razorpay payment integration with idempotency keys & pessimistic locking to prevent double-charges
+JWT auth with httpOnly cookie rotation, Bucket4j rate limiting
+4-step instructor course-creation wizard
+Playwright E2E test suite — 100% passing
+🔗 GitHub
+🔗 [Live Demo] (https://coursify-learn.vercel.app/)
 
 ### 🛡 ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
 Final year project — a secure, real-time online exam platform.
@@ -82,6 +85,7 @@ Final year project — a secure, real-time online exam platform.
 - Currently building: frontend UI
 🔗 [GitHub](https://github.com/nirav-dev-04)
 
+
 ### 🏠 Hostel Management System *(Completed)*
 A role-based hostel management platform for student and hostel administration.
 - **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JPA, Spring Security, JWT (Backend) | React + Vite (Frontend)
@@ -89,12 +93,6 @@ A role-based hostel management platform for student and hostel administration.
 - Complaint management system
 - Secure REST API architecture, Dockerized backend, Cloudinary file uploads
 🔗 [Live Demo](https://hostel-managment-frontend.vercel.app/login) | [Frontend Repo](https://github.com/nirav-dev-04/HOSTEL-MANAGMENT---FRONTEND) | [Backend Repo](https://github.com/nirav-dev-04/smart-hostel-management-system)
-
-### 📄 AI Resume Analyzer *(Planned)*
-An AI-powered resume screening and feedback tool — upcoming project.
-- **Planned Stack:** React (TypeScript, Vite), Spring Boot
-- AI-based resume parsing & ATS scoring
-- Async analysis with status polling
 
 ---
 
