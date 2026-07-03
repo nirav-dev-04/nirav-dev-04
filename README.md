@@ -75,7 +75,7 @@ End-to-end online course platform with video streaming, secure payments, and an 
 - 4-step instructor course-creation wizard
 - Playwright E2E test suite — 100% passing
 
-🔗 [GitHub](https://github.com/nirav-dev-04)
+🔗 [GitHub](https://github.com/nirav-dev-04/Coursify---Course-Learning-Platform.git)
 🔗 [Live Demo](https://coursify-learn.vercel.app/)
 
 ### 🛡 ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
