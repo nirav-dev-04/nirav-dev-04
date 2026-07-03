@@ -63,18 +63,20 @@
 
 ## 📂 Featured Projects
 
-🎓 Coursify — Full-Stack EdTech SaaS Platform
+### 🎓 Coursify — Full-Stack EdTech SaaS Platform
 End-to-end online course platform with video streaming, secure payments, and an instructor portal.
 
-Stack: Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS (S3, Lambda, MediaConvert, CloudFront), Razorpay
-Redis write-back caching for real-time video progress tracking
-AWS video pipeline: S3 → Lambda → MediaConvert → CloudFront signed cookies for secure HLS streaming
-Razorpay payment integration with idempotency keys & pessimistic locking to prevent double-charges
-JWT auth with httpOnly cookie rotation, Bucket4j rate limiting
-4-step instructor course-creation wizard
-Playwright E2E test suite — 100% passing
-🔗 GitHub
-🔗 [Live Demo] (https://coursify-learn.vercel.app/)
+**Stack:** Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS (S3, Lambda, MediaConvert, CloudFront), Razorpay
+
+- Redis write-back caching for real-time video progress tracking
+- AWS video pipeline: S3 → Lambda → MediaConvert → CloudFront signed cookies for secure HLS streaming
+- Razorpay payment integration with idempotency keys & pessimistic locking to prevent double-charges
+- JWT auth with httpOnly cookie rotation, Bucket4j rate limiting
+- 4-step instructor course-creation wizard
+- Playwright E2E test suite — 100% passing
+
+🔗 [GitHub](https://github.com/nirav-dev-04)
+🔗 [Live Demo](https://coursify-learn.vercel.app/)
 
 ### 🛡 ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
 Final year project — a secure, real-time online exam platform.
