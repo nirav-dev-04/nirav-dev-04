@@ -2,6 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot Developer | Full-Stack Developer | DSA Learner</h3>
 
 <p align="center">
+🌐 <a href="https://nirav-mathukiya.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
 📧 <a href="mailto:niravmathukiya8@gmail.com">niravmathukiya8@gmail.com</a>
 </p>
 
@@ -9,6 +10,7 @@
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nirav-mathukiya.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirav__04__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-mathukiya-47b1752b3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nirav-dev-04)
@@ -68,7 +70,7 @@ End-to-end online course platform with video streaming, secure payments, and an 
 
 **Stack:** Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS (S3, Lambda, MediaConvert, CloudFront), Razorpay
 
-- Redis write-back caching for real-time video progress tracking
+- Redis **cache-aside** strategy for real-time video progress tracking
 - AWS video pipeline: S3 → Lambda → MediaConvert → CloudFront signed cookies for secure HLS streaming
 - Razorpay payment integration with idempotency keys & pessimistic locking to prevent double-charges
 - JWT auth with httpOnly cookie rotation, Bucket4j rate limiting
@@ -85,7 +87,7 @@ Final year project — a secure, real-time online exam platform.
 - JWT authentication, Bucket4j rate limiting, Flyway migrations
 - Apache POI for bulk question import
 - Currently building: frontend UI
-🔗 [GitHub](https://github.com/nirav-dev-04)
+🔗 [GitHub](https://github.com/nirav-dev-04/ExamShield)
 
 
 ### 🏠 Hostel Management System *(Completed)*
