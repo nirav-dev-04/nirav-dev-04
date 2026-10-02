@@ -20,7 +20,7 @@
 
 ##  About Me
 
--  7th Semester Computer Engineering Student (GTU, Batch 2023–27)
+-  7th Semester Computer Engineering Student (LDRP, Batch 2023–27)
 -  Java Backend Developer — actively interviewing for fresher backend roles
 -  Building production-style, AI-integrated full-stack projects (not just CRUD apps)
 -  Deepening skills in Spring Security, Hibernate/JPA, Redis, AWS, and System Design
@@ -69,6 +69,18 @@ End-to-end online course platform with video streaming, secure payments, and an 
 
 🔗 [GitHub](https://github.com/nirav-dev-04/Coursify---Course-Learning-Platform.git)
 🔗 [Live Demo](https://coursify-learn.vercel.app/)
+
+### Dynamic Custom Mock Data Engine — Low-Code Developer Tool ###
+High-performance dynamic mock dataset generation platform for frontend engineers with zero backend DTOs or external database dependencies.
+
+Stack: Java 21, Spring Boot 3, Net.Datafaker 2.4, Reflection API, ConcurrentHashMap, Tailwind CSS, JavaScript ES6+
+
+-Startup reflection performance cache: Scans Datafaker provider modules at boot time and caches invokable methods into a ConcurrentHashMap dictionary, eliminating runtime reflection lookups and speeding up API execution by 85%+
+-Dynamic metadata discovery pipeline: Exposes /api/catalog endpoint to automatically discover 1,000+ data categories directly from JVM bytecode without hardcoded schemas
+-Resilient fallback architecture: Graceful execution engine preventing NullPointerException and 500 server errors by cleanly substituting unmapped field tokens with structured fallback responses
+-Google-like autocomplete & dictionary validation: Real-time client-side search bar with query highlighting and instant dictionary validation against the backend reflection map
+-Low-code visual blueprint builder: Chip-based interactive composition interface with dynamic HTML grid rendering, Copy JSON, and Export CSV capabilities
+-Light/Dark theme architecture: Custom Tailwind UI design system with localStorage state persistence and isolated scroll containers for zero-bounce UI interaction
 
 ###  ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
 Final year project — a secure, real-time online exam platform.
