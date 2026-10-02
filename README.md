@@ -83,6 +83,8 @@ Stack: Java 21, Spring Boot 3, Datafaker 2.4, Reflection API, ConcurrentHashMap,
 - Copy generated datasets as JSON and export them as CSV
 - Light/Dark theme with localStorage persistence and isolated scroll containers for smooth UI interaction
 
+- [GitHub](https://github.com/nirav-dev-04/Dyamic-Custom-Mock-Data-Engine)
+
 ###  ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
 Final year project — a secure, real-time online exam platform.
 - **Stack:** Spring Boot 3, React (Vite), PostgreSQL, Redis
