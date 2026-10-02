@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Nirav Mathukiya 👋</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Developer | Full-Stack Developer | DSA Learner</h3>
+<h1 align="center">Hi, I'm Nirav Mathukiya </h1>
+<h3 align="center">Java Backend Developer | Spring Boot Developer</h3>
 
 <p align="center">
-🌐 <a href="https://nirav-mathukiya.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
-📧 <a href="mailto:niravmathukiya8@gmail.com">niravmathukiya8@gmail.com</a>
+ <a href="https://nirav-mathukiya.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
+ <a href="mailto:niravmathukiya8@gmail.com">niravmathukiya8@gmail.com</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nirav-mathukiya.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirav__04__)
@@ -18,18 +18,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 7th Semester Computer Engineering Student (GTU, Batch 2023–27)
-- 💼 Java Backend Developer — actively interviewing for fresher backend roles
-- 🚀 Building production-style, AI-integrated full-stack projects (not just CRUD apps)
-- 🌱 Deepening skills in Spring Security, Hibernate/JPA, Redis, AWS, and System Design
-- 🧩 Practicing Data Structures & Algorithms in Java
-- 🎯 Goal: Land a Java Backend Developer role in 2026
+-  7th Semester Computer Engineering Student (GTU, Batch 2023–27)
+-  Java Backend Developer — actively interviewing for fresher backend roles
+-  Building production-style, AI-integrated full-stack projects (not just CRUD apps)
+-  Deepening skills in Spring Security, Hibernate/JPA, Redis, AWS, and System Design
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Backend**
 
@@ -44,15 +42,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
 
 **Cloud & Tools**
 
@@ -63,9 +53,9 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🎓 Coursify — Full-Stack EdTech SaaS Platform
+###  Coursify — Full-Stack EdTech SaaS Platform
 End-to-end online course platform with video streaming, secure payments, and an instructor portal.
 
 **Stack:** Next.js 14, Spring Boot 3, PostgreSQL, Redis, AWS (S3, Lambda, MediaConvert, CloudFront), Razorpay
@@ -80,7 +70,7 @@ End-to-end online course platform with video streaming, secure payments, and an 
 🔗 [GitHub](https://github.com/nirav-dev-04/Coursify---Course-Learning-Platform.git)
 🔗 [Live Demo](https://coursify-learn.vercel.app/)
 
-### 🛡 ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
+###  ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
 Final year project — a secure, real-time online exam platform.
 - **Stack:** Spring Boot 3, React (Vite), PostgreSQL, Redis
 - WebSocket/STOMP for real-time proctoring & monitoring
@@ -90,7 +80,7 @@ Final year project — a secure, real-time online exam platform.
 🔗 [GitHub](https://github.com/nirav-dev-04/ExamShield)
 
 
-### 🏠 Hostel Management System *(Completed)*
+###  Hostel Management System *(Completed)*
 A role-based hostel management platform for student and hostel administration.
 - **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JPA, Spring Security, JWT (Backend) | React + Vite (Frontend)
 - Role-based authentication (Student / Rector / Admin dashboards)
@@ -100,23 +90,6 @@ A role-based hostel management platform for student and hostel administration.
 
 ---
 
-## 🧮 DSA Practice
-
-### Java-Codes
-Structured Java DSA practice repo covering Arrays, Strings, Number Programs, Patterns, Sorting/Searching, Collections, Java 8 Streams, and Recursion — built alongside interview preparation.
-🔗 [GitHub](https://github.com/nirav-dev-04/Java-Codes.)
-
----
-
-## 🎯 2026 Goals
-
-- Land a Java Backend Developer role
-- Ship Coursify and ExamShield to completion
-- Build the AI Resume Analyzer
-- Get strong in System Design fundamentals
-- Keep sharpening DSA in Java
-
----
 
 ## 📊 GitHub Stats
 
