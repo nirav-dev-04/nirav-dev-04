@@ -85,6 +85,8 @@ Stack: Java 21, Spring Boot 3, Datafaker 2.4, Reflection API, ConcurrentHashMap,
 
 - [GitHub](https://github.com/nirav-dev-04/Dyamic-Custom-Mock-Data-Engine)
 
+-  [Live Demo](https://dyamic-custom-mock-data-engine-frontend-7ke1ckj4m.vercel.app/)
+
 ###  ExamShield — Real-Time Secured Online Exam & Proctoring Platform *(In Progress)*
 Final year project — a secure, real-time online exam platform.
 - **Stack:** Spring Boot 3, React (Vite), PostgreSQL, Redis
